@@ -13,3 +13,7 @@ D1  ...
 .
 .
 ```
+
+## Bonus
+
+Add a third dimension of lowercase characters.
